@@ -7,7 +7,7 @@
 }
 
 :root {
-  --dark-color: #000;
+  --dark-color: #f70303;
 }
 
 body {
@@ -36,12 +36,12 @@ body {
     radial-gradient(
       ellipse at bottom,
       var(--dark-color),
-      rgba(145, 233, 255, 0.2)
+      rgba(22, 206, 16, 0.2)
     ),
     repeating-linear-gradient(
       220deg,
-      rgb(0, 0, 0) 0px,
-      rgb(0, 0, 0) 19px,
+      rgb(227, 20, 20) 0px,
+      rgb(225, 19, 19) 19px,
       transparent 19px,
       transparent 22px
     ),
@@ -59,7 +59,7 @@ body {
       transparent 19px,
       transparent 22px
     ),
-    linear-gradient(90deg, rgb(0, 255, 250), rgb(240, 240, 240));
+    linear-gradient(90deg, rgb(150, 26, 199), rgb(000, 240, 240));
 }
 
 .flowers {
