@@ -222,6 +222,7 @@ body {
   -webkit-animation: grow-flower-tree 4s backwards;
           animation: grow-flower-tree 4s backwards;
 }
+}
 .flower__line__leaf {
   --w: 7vmin;
   --h: calc(var(--w) + 2vmin);
